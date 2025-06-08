@@ -35,7 +35,7 @@ The coffee shop owner wants to understand key sales patterns to make informed de
 [Link Tableau](https://public.tableau.com/views/CoffeeSales_17491921371660/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
-![Coffee Sales Dashboard](Coffee_sales_Dashboard.png)
+![Coffee Sales Dashboard](data/Coffee_sales_Dashboard.png)
 
 
 ---
