@@ -18,7 +18,7 @@ The coffee shop owner wants to understand key sales patterns to make informed de
 
 - Python
 - Pandas
-- Excel (via 'openpyxl' library)
+- Excel
 
 ---
 
